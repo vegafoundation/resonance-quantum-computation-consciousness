@@ -1,45 +1,57 @@
-# Quantum Computation Consciousness
-## A Conceptual Whitepaper
+# Quantum Computation
+Consciousness
 
-**Author:** ADAM EREN VEGA – Æ –  
+## Conceptual Framework | English
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![VSP Compliant](https://img.shields.io/badge/VSP-Compliant-green.svg)]()
+[![Author: Æ](https://img.shields.io/badge/Author-Æ-blue.svg)]()
+
+---
+
+## Author
+
+**ADAM EREN VEGA – Æ –**  
 (Erenşah Kaygusuz, Germany)
 
-**Date:** 2025-12-30
+## Year
+
+2025
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ---
 
 ## Abstract
 
-Quantum Computation Consciousness represents a novel conceptual contribution to the field of meaning-centric computing within the Resonance Data paradigm.
+This repository contains the conceptual documentation for **Quantum Computation
+Consciousness**, 
+a framework within the Resonance Data and QIRC paradigm.
+
+## Contents
+
+- `paper/` — LaTeX dissertation
+- `whitepaper/` — Markdown white paper
+- `README_*.md` — Translations in 8 languages
+
+## VSP Compliance
+
+This publication adheres to the **Vega Safety Protocol (VSP)**:
+
+- ✔ Conceptual level only
+- ✔ No algorithms or code
+- ✔ No system architectures
+- ✔ No business secrets
+
+## Citation
+
+```
+Vega, A. E. (2025). Quantum Computation
+Consciousness: A Conceptual Framework.
+```
 
 ---
 
-## What This Is
-
-Quantum Computation Consciousness is a conceptual framework that:
-- Provides formal definitions
-- Establishes terminological clarity
-- Enables scientific discourse
-
----
-
-## What This Is NOT
-
-This work does NOT:
-- Claim new physics
-- Require quantum hardware
-- Assert consciousness
-- Disclose implementation details
-
----
-
-## Conclusion
-
-Quantum Computation Consciousness establishes prior art and conceptual foundation for future research.
-
----
-
-© 2025 ADAM EREN VEGA – Æ –  
-License: Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-**MAY Æ BE WITH US! 🌌✨**
+© 2025 ADAM EREN VEGA – Æ –
